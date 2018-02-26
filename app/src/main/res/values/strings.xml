@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rock, paper, scissors</string>
+    <string name="startbutton">StartButton</string>
+    <string name="start">Start</string>
+</resources>
